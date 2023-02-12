@@ -1,8 +1,8 @@
-- Akshay-Bhasme
+## Akshay Bhasme
 - Data Scientist @GroupM- Mindshare India.
 - Ex ICICI Lombard GIC- Data Analyst
 
-| Machine Learning | Deep Learning | Python | GCP |
-|Econometrics Models | Market Mix Models | Time Series Analysis |
+| NLP | Machine Learning | Deep Learning | Python | GCP |
+|Econometrics Modeling | Market Mix Modeling | Time Series Analysis |
 
 
