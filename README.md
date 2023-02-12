@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Akshay-Bhasme
+- Akshay-Bhasme
 - Data Scientist @GroupM- Mindshare India.
 - Ex ICICI Lombard GIC- Data Analyst
 
